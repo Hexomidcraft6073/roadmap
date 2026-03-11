@@ -282,13 +282,13 @@ export default function App() {
           flexWrap: "wrap",
         }}>
           <RoadmapColumn
-            title="Web Dev & Design (Sajid)"
+            title="(Sajid) Web Dev & Design"
             emoji="🖥️"
             steps={webDevSteps}
             accentColor="#00e5ff"
           />
           <RoadmapColumn
-            title="Video Editing (Irfan)"
+            title="(Irfan) Video Editing"
             emoji="🎬"
             steps={videoEditSteps}
             accentColor="#ff2d78"
